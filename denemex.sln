@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "denemex", "denemex\denemex.csproj", "{CAA25212-211A-4489-98BD-323EC661EC68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAA25212-211A-4489-98BD-323EC661EC68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA25212-211A-4489-98BD-323EC661EC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA25212-211A-4489-98BD-323EC661EC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA25212-211A-4489-98BD-323EC661EC68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1850D55-0858-454F-A67C-A17F21F081C0}
+	EndGlobalSection
+EndGlobal
